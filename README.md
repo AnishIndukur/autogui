@@ -1,6 +1,6 @@
 # Tiny Mouse Jiggler
 
-A simple, unobtrusive mouse jiggler that prevents your computer from going to sleep or showing as inactive.
+A simple, unobtrusive mouse jiggler that prevents your computer from going to sleep.
 
 ## Features
 
